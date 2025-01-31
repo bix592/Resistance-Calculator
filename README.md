@@ -1,7 +1,6 @@
 # Resistance-Calculator
 
 Made for school project which applies data structure, graphs, and shortest path algorithms. Receives input of resistor network in netlist representation which is technically an edge list of a graph.
-=
 
 The program can:
 1. identify which resistors are in series and which resistors are in parallel.
